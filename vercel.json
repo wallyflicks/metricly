@@ -25,7 +25,6 @@
     {
       "source": "/",
       "destination": "/dashboard",
-      "permanent": false,
       "statusCode": 307
     }
   ]
